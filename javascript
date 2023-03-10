@@ -2,7 +2,7 @@
 Nama    : Aisyah Safira Rachman
 Hari/Tgl: Jumat, 10 Maret 2022
 Waktu   : 06:32 PM*/
-
+package tugas1;
 public class Asgdll {
 
     public static void main(String[] args) {
